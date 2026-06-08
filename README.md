@@ -16,3 +16,6 @@ Das Skript listet die erforderlichen Pakete auf, die mit `sudo apt install` inst
 Das Skript läuft unter Bash und setzt ein Linux-System voraus. Es hat keine Internetabhängigkeit, aber die Tools müssen vorab installiert sein.
 
 
+## License
+This project is released under the WTFPL LICENSE.
+<a href="http://www.wtfpl.net/"><img src="http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-4.png" width="80" height="15" alt="WTFPL" /></a>
